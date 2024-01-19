@@ -1,7 +1,10 @@
-# ingore ALL .log files
+# Ignore ALL .log files
 *.log
 
-# ingore ALL files in .idea directory
+# Ignore IDE files
 .idea/
+.vscode/
+
+# Ignore output files
 out/
 ChristmasCard.iml

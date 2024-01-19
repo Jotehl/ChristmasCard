@@ -1,0 +1,7 @@
+# ingore ALL .log files
+*.log
+
+# ingore ALL files in .idea directory
+.idea/
+out/
+ChristmasCard.iml
